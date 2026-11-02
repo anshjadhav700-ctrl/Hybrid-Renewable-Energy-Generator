@@ -67,5 +67,3 @@ Rural electrification, standalone home systems, agricultural lighting and pumps,
 - Smart city and rooftop installations
 - Grid integration
 
-## License
-Released under the MIT License. See [LICENSE](LICENSE).
