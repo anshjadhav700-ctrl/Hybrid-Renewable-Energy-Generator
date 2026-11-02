@@ -16,13 +16,12 @@ Solar panels only work in daylight and wind turbines need wind. This project com
 - Suitable for rural homes, farms, street lighting and off-grid sites
 
 ## Block Diagram
-![Block Diagram](Block Diagram/Blockd.png)
-
+![Block Diagram](Block_Diagram/Blockd.png)
 
 **Working:** Solar PV (via MPPT controller) and the VAWT generator (via its own charge controller) charge a central battery. The battery supplies the DC load, with protection and metering monitoring voltage, current and battery health.
 
 ## Circuit Diagram
-![Circuit Diagram](Circuit Diagram/circuit diagram.png)
+![Circuit Diagram](Circuit_Diagram/circuit_diagram.png)
 
 
 ## Hardware Components
@@ -48,7 +47,6 @@ Solar panels only work in daylight and wind turbines need wind. This project com
 ```
 Green-Power-Hybrid-VAWT-Solar/
 ├── README.md
-├── LICENSE
 ├── .gitignore
 ├── Block_Diagram/    # System block diagram
 ├── Circuit_Diagram/  # Circuit connections
